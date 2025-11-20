@@ -1,6 +1,6 @@
-👋 Hi, I'm Tanuj Singh
+👋 **Hi, I'm Tanuj Singh**
 
-Data Analyst • Business Analyst • BI Developer • Creative Technologist
+**Data Analyst • Business Analyst • BI Developer • Creative Technologist**
 
 🌟 Passionate about turning data into clear insights, building interactive dashboards, and solving business problems with a mix of analytics + creativity.
 ________________________________________
