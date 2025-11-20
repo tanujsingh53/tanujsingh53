@@ -1,16 +1,25 @@
 👋 Hi, I'm Tanuj Singh
+
 Data Analyst • Business Analyst • BI Developer • Creative Technologist
+
 🌟 Passionate about turning data into clear insights, building interactive dashboards, and solving business problems with a mix of analytics + creativity.
 ________________________________________
 🚀 About Me
+
 •	📊 3+ years as Market Research Analyst
+
 •	🧠 Strong grip on Data Analytics, BI, SQL, Python, Excel
+
 •	🎨 Self-taught Graphic Designer
+
 •	💼 Founder — Tanushi Enterprises
+
 •	🔍 Love working on dashboards, KPIs, forecasting & pattern analysis
+
 •	📘 Continuously learning — DAX, ML basics, automation, ETL
 ________________________________________
 🛠️ Tech Stack & Tools
+
 Data & Databases
 
 
@@ -30,15 +39,19 @@ Other Tools
 
 ________________________________________
 📊 Featured Projects
+
 🔹 Power BI – Ride Cancellation Dashboard
 KPI insights · Trend analysis · Time-based patterns
 🔗 Repo coming soon
+
 🔹 Coffee Shop Sales Dashboard
 Revenue insights · Top products · Customer trends
 🔗 Repo coming soon
+
 🔹 SQL Flight Delay Analysis
 CTEs · Window Functions · Joins · Aggregations
 🔗 Repo coming soon
+
 🔹 Python Data Analytics Mini Projects
 Scaling · Regression · EDA · Visualizations
 🔗 Repo coming soon
@@ -48,6 +61,8 @@ ________________________________________
 (Replace your GitHub username if different.)
 ________________________________________
 🌐 Connect With Me
+
+https://github.com/tanujsingh53
 https://www.linkedin.com/in/tanuj-singh-101703a1/
 
 ________________________________________
