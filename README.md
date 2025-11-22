@@ -12,8 +12,6 @@ ________________________________________
 
 •	🎨 Self-taught Graphic Designer
 
-•	💼 Founder — Tanushi Enterprises
-
 •	🔍 Love working on dashboards, KPIs, forecasting & pattern analysis
 
 •	📘 Continuously learning — DAX, ML basics, automation, ETL
