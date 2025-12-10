@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=👩‍💻+Turning+Data+into+Insights!;📚+Learning+Python%2C+SQL%2C+Power+BI;🚀+Building+Projects+and+Sharing+on+GitHub;🔗+Connect+and+Grow+Together!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CoderSugata&color=ff0000" alt="Profile views"/>
+</p>
+
 👋 **Hi, I'm Tanuj Singh**
 
 **Data Analyst • Business Analyst • BI Developer • Creative Technologist**
